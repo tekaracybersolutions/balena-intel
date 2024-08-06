@@ -1,7 +1,7 @@
 These firmware files were obtained from:
-https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/?h=20230117
+https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/?h=20240709
 
-Version TAG: 20230117
+Version TAG: 20240709
 
 They can be removed once linux-firmware is updated in meta-balena
 to a newer release. They have been included here due to root filesystem
